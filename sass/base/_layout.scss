@@ -1,10 +1,12 @@
-$max-width: 1200px !default;
+$max-width: 1000px !default; // 1200px
 
 // Padding used for layout margins
 $pad-min: 18px !default;
 $pad-narrow: 25px !default;
 $pad-medium: 35px !default;
 $pad-wide: 55px !default;
+// dakala
+$pad-wide: px !default;
 
 // Sidebar widths used in media queries
 $sidebar-width-medium: 240px !default;
@@ -86,6 +88,8 @@ body {
     font-size: $header-font-size;
     padding-top: $header-padding-top;
     padding-bottom: $header-padding-bottom;
+    /* dakala */
+    text-align: center;
   }
 }
 
