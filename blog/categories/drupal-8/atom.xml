@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[deji.akala]]></title>
-  <link href="http://dakala.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Drupal 8 | deji.akala]]></title>
+  <link href="http://dakala.github.io/blog/categories/drupal-8/atom.xml" rel="self"/>
   <link href="http://dakala.github.io/"/>
   <updated>2015-01-06T01:01:14+00:00</updated>
   <id>http://dakala.github.io/</id>
