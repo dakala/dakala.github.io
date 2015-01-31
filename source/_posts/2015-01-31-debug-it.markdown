@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Debug it"
+date: 2015-01-31 20:09:23 +0000
+comments: true
+categories: [Recruitment, Onboarding]
+---
+
+I've had the privilege of coming onboard different kinds of teams - small, medium, large. The level of preparation for new joiners was equally different. Some years ago, a developer was joining our team and on his first day, he sat at an empty desk looking rather lonely. A computer was hurriedly commandered from somewhere and somehow, before the end of the day he had access to the network and some tools.
+
+<!-- more -->
+
+ The following day, if I recall correctly, he was able to check out the source code from SVN. For hours on end he simply stared at the screen, reading and scrolling, with an expressionless face. On the third day, his desk was empty. We started wondering whether he'd got lost as he didn't know the area well. Anyway, to cut the long story short, we never saw him again - he'd quit.
+
+How do we bring new staff on-board without headaches or heartaches?
+
+**Selection**
+
+Right from the first contact with an applicant, they should know exactly what to expect with regards to the tools they'll be working with. There's no need to tell candidates you're working this or that framework when in actual fact you don't. If they get offered the job, they'll be disappointed when they discover the true picture. 
+
+The recruitment process differs from company to company. However, it's common to do a telephone interview and a face-to-face at least. Sometimes, more than one face-to-face session at the company is scheduled. In some instances, there's a written or coding test. At each stage of the process candidates are whittled down as their suitability for the position is appraised. 
+
+I would like to propose a final step before an offer is made - something like, a get-to-know-our-processes day. The candidate comes in, meets the team, gets to see the tools and the code they'll be working with. Of course, this must be balanced against the need to keep some of our code out of public domain.
+
+And when an offer is made and accepted by the candidate they come in with a more accurate expectation.
+
+**Documentation**
+
+This isn't about code documentation. Rather, it's about accurately documenting the development process - setting up a machine for development, configuration settings, source control access, setting up a printer etc. There should be up-to-date, well-written, step-by-step instructions for everything. Where commands are required, they should be provided for each step no matter how superfluous it might look. A good example is the page for <a href="https://help.github.com/articles/generating-ssh-keys" title="Generating SSH keys">generating SSH keys on Github</a>. Each operating system has a different set of instructions. There's Step 1, Step 2, Step 3 and Step 4. Commands have syntax highlighting. Nothing is taken for granted. Nothing is assumed. 
+
+The quality of documentation of how to setup environments for working and hit the ground running is a clear indication of the level of organisation at a company. 
+
+**Preparation**
+
+On a joiner's first day, everything should be ready for them. There should be a designated desk. If there are name labels at each workspace, there should be one for the new staff. It shows they're being expected and taken seriously. A computer with basic software pre-installed should be waiting too. From CVs and during the recruitment process, candidates' preferences should have been identified. Is this a Windows guy? Linux? Mac? No matter what, there should be something waiting.
+
+What's the company's policy with regards to development environment? These days more and more companies have vagrant boxes. A working copy should be ready so that within an hour of the new developer reporting for work, everything's fired up and ready.
+
+**Coordination**
+
+From the foregoing, bringing people onboard requires a lot of work and people should be tasked with this responsibility. At the interview stage, such Onboarding Coordinators will show the candidates round and walk them through as much code as the business allows. They are in charge of updating documentation and preparing a computer and desk for the new developer. Someone, or some people, to make sure they aren't lost during their first few days and easing them into the team.
+
+Taking all these into consideration, a new joiner will have fewer questions - How does this work? Why am I seeing this? How do I ...? Definitely, they will hardly ever hear the answer - Debug it! - when the question clearly doesn't call for that kind of answer. 
