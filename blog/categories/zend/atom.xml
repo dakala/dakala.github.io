@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Zend | deji.akala]]></title>
+  <link href="http://dakala.github.io/blog/categories/zend/atom.xml" rel="self"/>
+  <link href="http://dakala.github.io/"/>
+  <updated>2016-06-27T00:30:41+01:00</updated>
+  <id>http://dakala.github.io/</id>
+  <author>
+    <name><![CDATA[Deji Akala]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Passing Zend PHP Certification Exam]]></title>
+    <link href="http://dakala.github.io/blog/2015/01/08/passing-zend-php-certification-exam/"/>
+    <updated>2015-01-08T19:50:27+00:00</updated>
+    <id>http://dakala.github.io/blog/2015/01/08/passing-zend-php-certification-exam</id>
+    <content type="html"><![CDATA[<p>I&rsquo;d always weighed the pros and cons of taking the Zend PHP Certification exam since its early days. For me, the overriding argument against, was that you can teach art but you can&rsquo;t teach how to paint The Scream or Mona Lisa. So I focussed on the practical art of programming.</p>
+
+<!-- more -->
+
+
+<p>However, after over 10 years of doing PHP, in August last year, I finally overcame the biggest obstacle to actually doing so which was making up my mind and disciplining myself.</p>
+
+<p><strong>1. Time</strong></p>
+
+<p>This is the most important part of the preparation. It&rsquo;s a theory test and  I knew that I needed to make out time for study. Luckily enough, I&rsquo;d just ended a 12-month contract that required a 4-hr daily commute into London and I wanted to have a bit of a rest. It took a while between the decision and actual registration. I did and gave myself 6 weeks of preparation.</p>
+
+<p><strong>2. Material</strong></p>
+
+<p>I bought the <a href="http://shop.zend.com/en/php-certification/zend-php-certification-guide-pdf.html">Zend PHP Certification Study Guide</a> which gave a general overview of the exam syllabus. There&rsquo;s also a weighting of the topics:</p>
+
+<ul>
+<li><p>Highest Emphasis:</p>
+
+<ul>
+<li>PHP Basics</li>
+<li>OOP</li>
+<li>Security</li>
+</ul>
+</li>
+<li><p>Average Emphasis:</p>
+
+<ul>
+<li>Functions</li>
+<li>Web Features</li>
+<li>Arrays</li>
+<li>Strings &amp; Patterns</li>
+</ul>
+</li>
+<li><p>Lowest Emphasis</p>
+
+<ul>
+<li>Databases</li>
+<li>Data Formats and Types</li>
+<li>Input/Output</li>
+</ul>
+</li>
+</ul>
+
+
+<p>I trawled the internet for information and blogs of people who had taken the exam and either passed or failed. That was how I found out about <a href="http://www.ucertify.com/">uCertify</a> and bought their Zend - PHP 5.5 Certification Study Guide and Practice Test (200-550) course. It&rsquo;s packed with loads of material and practice tests. You can revise or take simulated tests with feedback as you progress. However, I later discovered that the questions are a lot simpler than the actual exam but it was worth every penny I spent on it.</p>
+
+<p>Another real treasure I mined was the <a href="http://php.net/manual/en/">PHP documentation</a> itself which has everything and even more. I found the user comments section extremely helpful too.</p>
+
+<p><strong>3. Plan</strong></p>
+
+<p>The internet is full of stories of experienced programmers flunking the exam more than once and I didn&rsquo;t want to add to the list of another one that bit the dust.</p>
+
+<p>There was a lot of material to digest. Lots of practice tests to take and take and take again. I borrowed my son&rsquo;s felt tip pens and prepared flash cards on which I had snippets of information. We&rsquo;ve got sliding doors leading to the conservatory so I blu-tacked the flash cards on the doors. I waited until my family were asleep upstairs before moving into action. I&rsquo;ll pace up and down in the conservatory, look at the handwriting on the wall and try to remember what&rsquo;s on the cards. I didn&rsquo;t care how foolish I looked or sounded, I just went for it.</p>
+
+<p><img class="center" src="/images/flashcards.jpg" width="480" height="473" title="&ldquo;Flash cards&rdquo; &ldquo;Flash cards&rdquo;" ></p>
+
+<p>The closer I got to the exam, I was scoring nearly 90% on the uCertify tests but felt deflated when the scores fell below 80%. All in all, my confidence grew in leaps and bounds.</p>
+
+<p><strong>4. Exam</strong></p>
+
+<p>The exam centre is in our town and I felt I&rsquo;d walked past there before. Just to make sure, the day before the exam, I went there to make sure. On the day itself, I left home early and waited in a nearby car park. Then when it was time to leave, I couldn&rsquo;t find my passport! I rushed back home, It was nowhere to be found. I rushed back. I don&rsquo;t know how many traffic rules I broke that day but on days like that no law enforcement agents are around. When I got back to the car park, it turned out that I had been sitting on my passport!</p>
+
+<p>I was breathing fast, more annoyed at myself for not doing last minute revision of this or that topic, and sweating badly when I arrived at the centre. The moral of the story? Make sure you have your identification ready and check before leaving home.</p>
+
+<p>I worked slowly and firstly marked the answers I was very sure of. Then I went back to those I&rsquo;d left during the first pass. Finally, I re-checked everything and made sure I answered all the questions before pressing that big grey button &ldquo;Submit&rdquo;. I didn&rsquo;t dare look at the screen but in an instant there was a message like this: &ldquo;Congratulations on passing the Zend PHP exam and becoming certified&rdquo;</p>
+
+<p>I walked out of the test centre waving the printed result in the air and did the heel click - yeah, I jumped as high as I could and brought my heels together.</p>
+
+<h3>Finally</h3>
+
+<p>Mission accomplished! Now I was free to tell everybody at home what all that fuss of staying up late and studying was really really about.</p>
+]]></content>
+  </entry>
+  
+</feed>
